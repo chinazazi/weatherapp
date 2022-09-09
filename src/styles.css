@@ -1,0 +1,76 @@
+h1 {
+  font-size: 50px;
+  margin: 15px 0 25px;
+  color: #f57920;
+}
+#fulltime {
+  font-size: 18px;
+  color: black;
+}
+label {
+  position: relative;
+  left: -20px;
+  margin: 0 0 10px 0;
+  font-size: 25px;
+  font-weight: 600;
+}
+.container {
+  font-family: "Roboto Slab", serif;
+  max-width: 700px;
+  padding: 30px;
+  background: linear-gradient(#e3f6ff, #cff0fa, white);
+}
+.sun {
+  font-size: 90px;
+  color: #f57920;
+}
+.temp {
+  position: relative;
+  bottom: -45px;
+  right: -100px;
+  font-size: 25px;
+}
+#change {
+  font-size: 20px;
+  color: #f57920;
+  position: relative;
+  top: -25px;
+  right: -145px;
+}
+.sunny {
+  font-weight: 700px;
+  color: #f57920;
+  font-size: 25px;
+  position: relative;
+  top: 20px;
+  left: 120px;
+}
+#day {
+  font-size: 40px;
+}
+hr {
+  border: 2px solid #f57920;
+}
+.sentence2 {
+  font-size: 17px;
+  position: relative;
+  bottom: -140px;
+}
+.first {
+  font-size: 18px;
+  font-weight: 500;
+}
+.emoji {
+  font-size: 40px;
+}
+.footer {
+  position: relative;
+  top: -20px;
+}
+button {
+  border-radius: 5px;
+  background-color: rgb(58, 221, 250);
+  position: relative;
+  top: -400px;
+  left: 290px;
+}
